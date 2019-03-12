@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <filter height="200%" id="svg_2_blur" width="200%" x="-50%" y="-50%">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="3.7"/>
+  </filter>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m226.748352,129.317184l-80.329468,110.564072l-129.975876,-42.23172l0,-136.664719l129.975876,-42.23172l80.329468,110.564087z" fill="#003f7f" filter="url(#svg_2_blur)" id="svg_2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" transform="rotate(52.8292 121.596 129.317)"/>
+  <text fill="#0fbfb0" font-family="Fantasy" font-size="76" font-weight="bold" id="svg_1" stroke="#000000" stroke-width="0" text-anchor="middle" x="111.5" xml:space="preserve" y="147.5">PCPE</text>
+ </g>
+</svg>
